@@ -1,0 +1,6 @@
+[
+    { "articulo": "Harina", "precio": 41, "cantidad": 10 },
+    { "articulo": "Arroz", "precio": 48, "cantidad": 11 },
+    { "articulo": "Azucar", "precio": 54, "cantidad": 19 },
+    { "articulo": "Fideos", "precio": 36, "cantidad": 18 }
+]
